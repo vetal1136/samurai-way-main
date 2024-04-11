@@ -10,21 +10,4 @@
     /*grid-gap: 10px;*/
 }
 
-.header {
-    grid-area: header;
-  background-color: #42e742;
-}
 
-.header img {
-  width: 20px;
-}
-
-.nav {
-    grid-area: nav;
-  background-color: burlywood;
-}
-
-.content {
-    grid-area: content;
-  background-color: cornflowerblue;
-}
